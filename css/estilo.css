@@ -1,0 +1,10 @@
+*{
+    margin: 10px;
+}
+body{
+    background-color: aqua;
+}
+h1{
+    color: chocolate;
+    font-family: 'Courier New', Courier, monospace;
+}
